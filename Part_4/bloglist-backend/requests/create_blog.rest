@@ -1,0 +1,8 @@
+POST http://localhost:3001/api/blogs/ Content-Type: application/json
+
+{
+  "title": "What’s The Difference Between NextJS and Create-React-App?",
+  "author": "Malcolm L",
+  "url": "https://frontend-digest.com/whats-the-difference-between-nextjs-and-create-react-app-11b55650a612",
+  "likes": 200
+}
